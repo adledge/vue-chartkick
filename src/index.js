@@ -103,6 +103,7 @@ const VueChartkick = {
     createComponent(Vue, "scatter-chart", Chartkick.ScatterChart)
     createComponent(Vue, "geo-chart", Chartkick.GeoChart)
     createComponent(Vue, "timeline", Chartkick.Timeline)
+    createComponent(Vue, "combochart", Chartkick.ComboChart)
   },
   addAdapter: function(library) {
     Chartkick.addAdapter(library)
