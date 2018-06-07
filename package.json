@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ankane/vue-chartkick"
+    "url": "https://github.com/adledge/vue-chartkick"
   },
   "files": [
     "dist"
