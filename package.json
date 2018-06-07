@@ -31,7 +31,7 @@
     "rollup-plugin-uglify": "^3.0.0"
   },
   "dependencies": {
-    "chartkick": "https://github.com/adledge/chartkick.js",
+    "chartkick": "github:adledge/chartkick.js",
     "deep-equal": "^1.0.1"
   }
 }
