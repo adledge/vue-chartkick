@@ -1,7 +1,7 @@
 /*
  * Vue Chartkick
  * Create beautiful JavaScript charts with one line of Vue
- * https://github.com/ankane/vue-chartkick
+ * https://github.com/adledge/vue-chartkick
  * v0.3.3
  * MIT License
  */
@@ -114,6 +114,7 @@ var VueChartkick = {
     createComponent(Vue, "geo-chart", Chartkick.GeoChart);
     createComponent(Vue, "timeline", Chartkick.Timeline);
     createComponent(Vue, "combochart", Chartkick.ComboChart);
+    createComponent(Vue, "polarchart", Chartkick.PolarChart);
   },
   addAdapter: function(library) {
     Chartkick.addAdapter(library);
